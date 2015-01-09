@@ -1,0 +1,6 @@
+from	to
+C	A
+B	A
+C	B
+A	C
+C	D
